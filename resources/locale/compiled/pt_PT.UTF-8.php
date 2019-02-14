@@ -2312,11 +2312,11 @@ X-Crowdin-File: /master/resources/locale/default.pot
       array (
         0 => '',
       ),
-      'AzuraCast First-Time Setup' => 
+      'AKATRUST First-Time Setup' => 
       array (
         0 => '',
       ),
-      'Welcome to AzuraCast!' => 
+      'Welcome to AKATRUST!' => 
       array (
         0 => '',
       ),

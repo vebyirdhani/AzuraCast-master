@@ -2835,11 +2835,11 @@ msgid "Album Cover"
 msgstr ""
 
 #: /var/azuracast/www/resources/templates/frontend/setup/register.phtml:15
-msgid "AzuraCast First-Time Setup"
+msgid "AKATRUST First-Time Setup"
 msgstr ""
 
 #: /var/azuracast/www/resources/templates/frontend/setup/register.phtml:18
-msgid "Welcome to AzuraCast!"
+msgid "Welcome to AKATRUST!"
 msgstr ""
 
 #: /var/azuracast/www/resources/templates/frontend/setup/register.phtml:19

@@ -2315,11 +2315,11 @@ X-Crowdin-File: /master/resources/locale/default.pot
       array (
         0 => 'Обложка альбома',
       ),
-      'AzuraCast First-Time Setup' => 
+      'AKATRUST First-Time Setup' => 
       array (
         0 => '',
       ),
-      'Welcome to AzuraCast!' => 
+      'Welcome to AKATRUST!' => 
       array (
         0 => 'Добро пожаловать в AzuraCast!',
       ),

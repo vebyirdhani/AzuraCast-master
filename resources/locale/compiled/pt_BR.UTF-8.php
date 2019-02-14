@@ -2318,11 +2318,11 @@ Na maioria dos casos, use a codificação UTF-8 padrão. A codificação ISO-885
       array (
         0 => '',
       ),
-      'AzuraCast First-Time Setup' => 
+      'AKATRUST First-Time Setup' => 
       array (
         0 => '',
       ),
-      'Welcome to AzuraCast!' => 
+      'Welcome to AKATRUST!' => 
       array (
         0 => '',
       ),

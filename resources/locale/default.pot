@@ -2344,10 +2344,14 @@ msgstr ""
 
 #: /var/azuracast/www/config/forms/webhook/generic.php:13
 msgid ""
-"Web hooks automatically send a HTTP POST request to the URL you specify to \n"
-"                notify it any time one of the triggers you specify occurs on your station. The body of the POST message\n"
-"                is the exact same as the <a href=\"%s\" target=\"_blank\">Now Playing API response</a> for your station. \n"
-"                In order to process quickly, web hooks have a short timeout, so the responding service should be\n"
+"Web hooks automatically send a HTTP POST request to the URL you specify to 
+\n"
+"                notify it any time one of the triggers you specify occurs on your station. The body of the POST message
+\n"
+"                is the exact same as the <a href=\"%s\" target=\"_blank\">Now Playing API response</a> for your station. 
+\n"
+"                In order to process quickly, web hooks have a short timeout, so the responding service should be
+\n"
 "                optimized to handle the request in under 2 seconds."
 msgstr ""
 
@@ -2435,13 +2439,20 @@ msgstr ""
 
 #: /var/azuracast/www/config/forms/webhook/twitter.php:13
 msgid ""
-"Steps for configuring a Twitter application:<br>\n"
-"                <ol type=\"1\">\n"
-"                    <li>Create a new app on the <a href=\"%s\" target=\"_blank\">Twitter Applications site</a>. \n"
-"                    Use this installation's base URL as the application URL.</li>\n"
-"                    <li>In the newly created application, click the \"Keys and Access Tokens\" tab.</li>\n"
-"                    <li>At the bottom of the page, click \"Create my access token\".</li>\n"
-"                </ol>\n"
+"Steps for configuring a Twitter application:<br>
+\n"
+"                <ol type=\"1\">
+\n"
+"                    <li>Create a new app on the <a href=\"%s\" target=\"_blank\">Twitter Applications site</a>. 
+\n"
+"                    Use this installation's base URL as the application URL.</li>
+\n"
+"                    <li>In the newly created application, click the \"Keys and Access Tokens\" tab.</li>
+\n"
+"                    <li>At the bottom of the page, click \"Create my access token\".</li>
+\n"
+"                </ol>
+\n"
 "                Once these steps are completed, enter the information from the \"Keys and Access Tokens\" page into the fields below."
 msgstr ""
 
@@ -2671,7 +2682,8 @@ msgstr ""
 
 #: /var/azuracast/www/templates/frontend/api_keys/index.phtml:11
 msgid ""
-"API keys can be used to access some system functionality without needing to log in. All of the keys \n"
+"API keys can be used to access some system functionality without needing to log in. All of the keys 
+\n"
 "            you create share your permissions in the system. For more information, see the <a href=\"%s\">API documentation</a>."
 msgstr ""
 
@@ -2918,11 +2930,11 @@ msgid "Album Cover"
 msgstr ""
 
 #: /var/azuracast/www/templates/frontend/setup/register.phtml:15
-msgid "AzuraCast First-Time Setup"
+msgid "AKATRUST First-Time Setup"
 msgstr ""
 
 #: /var/azuracast/www/templates/frontend/setup/register.phtml:18
-msgid "Welcome to AzuraCast!"
+msgid "Welcome to AKATRUST!"
 msgstr ""
 
 #: /var/azuracast/www/templates/frontend/setup/register.phtml:19
